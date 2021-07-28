@@ -1,2 +1,2 @@
 wp-1.txt
-remote
+local add wp-1
