@@ -1,3 +1,2 @@
 wp-2 content
-remote
-remote
+local
